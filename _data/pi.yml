@@ -1,11 +1,11 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
+- name: Hafiyyan Sayyid Fadhlillah
+  photo: sayyid-blue-prof.jpg
+  info: Doctorate Student at Johannes Kepler University Linz
+  email: hafiyyan.fadhlillah@jku.at
   github: https://github.com/
   researchgate: https://www.researchgate.net/
   scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  cv: cv/Sayyid_Academic_CV.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
