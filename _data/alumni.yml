@@ -1,5 +1,40 @@
-- name: Example Alumni Name
-  photo: rock.jpg
-  duration: In the lab 2015-18
-  info: Now at Univeristy of X
-  email: exampleemail@gmail.com
+- name: Ilma Ainur Rohma
+  duration: Feb 2024 - Jan 2025
+  info: Master Student at Universitas Indonesia
+  thesis: Adopting Delta-Oriented Approach into Interaction Flow Modeling Language for Modeling User Interface Variants in Web-based Multi-Product Lines
+
+- name: Alexandra Asleithner
+  duration: Feb 2023 - Jun 2023
+  info: Bachelor Student at Johannes Kepler University Linxz
+  thesis: Visualizing Delta-Oriented Variability Modeling for IEC 61499
+
+- name: Tengku Izdihar Rahman Amanulla
+  duration: Sep 2020 - Dec 2020
+  info: Bachelor Student at Universitas Indonesia
+  thesis: Adapting GraphQL Technology in Web Application Generator for Software Product Line Engineering
+
+- name: Ryan Naufal Pioscha
+  duration: Feb 2020 - Jun 2020
+  info: Bachelor Student at Universitas Indonesia
+  thesis: Applying React Redux for Web Application Generator Based on Software Product Line Engineering
+
+- name: Claudio Yosafat
+  duration: Feb 2020 - Jun 2020
+  info: Bachelor Student at Universitas Indonesia
+  thesis: Docker Deployment on Software Product Line Engineering
+
+- name: Samuel Tupa Febrian
+  duration: Feb 2020 - Jun 2020
+  info: Bachelor Student at Universitas Indonesia
+  thesis: Software Product Line Engineering and API Adapter for Payment Gateway Variation's Development
+
+- name: Ichlasul Affan
+  duration: Sep 2019 - Dec 2019
+  info: Bachelor Student at Universitas Indonesia
+  thesis: System Integration and Deployment Tools for Multiple Web Product Creation Based on Software Product Line Engineering 
+
+
+- name: Affan Dhia Ardhiva
+  duration: Feb 2019 - Jun 2019
+  info: Bachelor Student at Universitas Indonesia
+  thesis: Developing User Interface Interface Generator Technology using ReactJS and Software Product Lines 

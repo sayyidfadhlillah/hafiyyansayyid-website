@@ -17,16 +17,26 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </style>
 
 <div class="jumbotron">
-### Preprints
-{% bibliography --query @unpublished %}
+### Peer-Reviewed Journals
+{% bibliography --file journal %}
 </div>
 
 <div class="jumbotron">
-### Refereed journal articles
-{% bibliography --query @article %}
+### Book Chapters
+{% bibliography --file book-chapter %}
 </div>
 
 <div class="jumbotron">
-### Refereed conference proceedings
-{% bibliography --query @inproceedings %}
+### Proceeding of International Conferences
+{% bibliography --file conference %}
+</div>
+
+<div class="jumbotron">
+### Proceeding of International Workshops
+{% bibliography --file workshop %}
+</div>
+
+<div class="jumbotron">
+### Tutorials & Tools Demonstration in International Conferences
+{% bibliography --file tutorial-and-tooldemo %}
 </div>

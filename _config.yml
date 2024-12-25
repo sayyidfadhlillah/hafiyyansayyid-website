@@ -3,7 +3,7 @@ title: Hafiyyan Sayyid Fadhlillah
 email: hafiyyan.fadhlillah@jku.at
 description: Academic webpage of Hafiyyan Sayyid Fadhlillah
 baseurl: ""
-url: ""
+url: "https://hafiyyansayy.id"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -30,7 +30,7 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
+  - name: project
   - name: supervision
   - name: teaching
   - name: blogs
@@ -67,8 +67,8 @@ scholar:
   style: citesty
   locale: en
 
-  source: /assets/
-  bibliography: ref.bib
+  source: /assets/bibliography/
+  bibliography: "*.bib"
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending

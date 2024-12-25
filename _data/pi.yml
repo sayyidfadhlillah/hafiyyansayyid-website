@@ -2,16 +2,15 @@
   photo: sayyid-blue-prof.jpg
   info: Doctorate Student at Johannes Kepler University Linz
   email: hafiyyan.fadhlillah@jku.at
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  github: https://github.com/sayyidfadhlillah/
+  scholar: https://scholar.google.com/citations?user=Ae-cMfcAAAAJ&hl=en&oi=ao
   cv: cv/Sayyid_Academic_CV.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2016) Bachelor of Computer Science, Universitas Indonesia",
+      "(2019) Master of Computer Science, Universitas Indonesia",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2016) S. Kom., Universitas Indonesia", "(2019) M. Kom., Universitas Indonesia"]

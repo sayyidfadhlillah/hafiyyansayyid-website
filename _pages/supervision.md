@@ -18,12 +18,15 @@ permalink: /supervision/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-2">
-<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
-</div>
-<div class="col-sm-4 col-xs-12">
+<div class="col-sm-6 col-xs-12">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.duration }} <br> {{ member.info }}</i>
+  <br>
+  <br>
+  Thesis title:
+  <br>
+  <br>
+  {{member.thesis}}
   <ul style="overflow: hidden">
   </ul>
 </div>
