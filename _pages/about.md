@@ -37,7 +37,7 @@ permalink: /about/
 {% if site.data.grants %}
 
 <div class="jumbotron">
-  <h3>Grants</h3>
+  <h3>Research Grants and Scholarship</h3>
   <ul>
     {% for grant in site.data.grants %}
       <li>{{ grant.name }}</li>
@@ -58,13 +58,26 @@ permalink: /about/
 </div>
 {% endif %}
 
-{% if site.data.people %}
+{% if site.data.research_interest %}
 
 <div class="jumbotron">
-  <h3>Students and Mentoring</h3>
+  <h3>Research Interests</h3>
+  I am mainly interested in Software Engineering research, especially on:
   <ul>
-    {% for student in site.data.people %}
-      <li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
+    {% for interest in site.data.research_interest %}
+      <li>{{ interest.name }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% if site.data.personal_interest %}
+
+<div class="jumbotron">
+  <h3>Personal Interests/Hobbies</h3>
+  <ul>
+    {% for interest in site.data.personal_interest %}
+      <li>{{ interest.name }}</li>
     {% endfor %}
   </ul>
 </div>
