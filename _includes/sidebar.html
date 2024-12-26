@@ -23,6 +23,8 @@
 {% endfor %}
 </div>
 
+{% assign item_count = site.data.news | size %}
+{% if item_count > 0 %}
 <div class="jumbotron">
   <h4>News</h4>
 
@@ -34,3 +36,4 @@
   <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
 
 </div>
+{%endif%}
