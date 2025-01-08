@@ -1,6 +1,6 @@
 # Site settings
 title: Hafiyyan Sayyid Fadhlillah
-email: hafiyyan.fadhlillah@jku.at
+email: fadhlillah@hafiyyansayy.id
 description: Academic webpage of Hafiyyan Sayyid Fadhlillah
 baseurl: ""
 url: "https://hafiyyansayy.id"
@@ -22,7 +22,7 @@ location: >
   Linz, AT 4040
 
 contact: >
-  <a href="mailto:hafiyyan.fadhlillah@jku.at" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Sayyid via email</a> <br/>
+  <i class="fa fa-envelope fa-1x"></i> Contact Sayyid via <a href="mailto:fadhlillah@hafiyyansayy.id" target="_blank">official</a> or <a href="mailto:hafiyyan.fadhlillah@jku.at" target="_blank">work email</a> <br/>
 
 # Pages shown in navbar
 nav_pages:
