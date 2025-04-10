@@ -30,8 +30,9 @@ nav_pages:
   - name: publications
   # - name: talks
   # - name: research
-  # - name: project
+  - name: project
   - name: supervision
+  # - name: calendar
   # - name: teaching
   # - name: blogs
 
