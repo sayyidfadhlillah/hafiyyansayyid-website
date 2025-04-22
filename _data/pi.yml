@@ -1,6 +1,6 @@
-- name: Hafiyyan Sayyid Fadhlillah, S.Kom., M.Kom.
+- name: Dr. techn. Hafiyyan Sayyid Fadhlillah, S.Kom., M.Kom.
   photo: sayyid-blue-prof.jpg
-  info: Doctorate Student at Johannes Kepler University Linz
+  info: Doctorate Researcher
   email: hafiyyan.fadhlillah@jku.at
   github: https://github.com/sayyidfadhlillah/
   scholar: https://scholar.google.com/citations?user=Ae-cMfcAAAAJ&hl=en&oi=ao
@@ -10,7 +10,8 @@
     [
       "(2016) Bachelor of Computer Science, Universitas Indonesia",
       "(2019) Master of Computer Science, Universitas Indonesia",
+      "(2025) Doctor technicae of Engineering Science, Johannes Kepler University Linz",
     ]
 
   educationshort:
-    ["(2016) S. Kom., Universitas Indonesia", "(2019) M. Kom., Universitas Indonesia"]
+    ["(2016) S. Kom., Universitas Indonesia", "(2019) M. Kom., Universitas Indonesia", "(2025) Dr. techn., Johannes Kepler University Linz"]
