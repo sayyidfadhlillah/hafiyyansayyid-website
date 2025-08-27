@@ -68,6 +68,22 @@ Industry-academia collaboration project to address the challenges of managing co
 </div>
 </div>
 
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<h4><b>Mastering Variability in Software-Intensive Cyber-Physical Production Systems</b></h4>
+<a href="https://www.jku.at/en/cdl-vasics/" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
+
+<b>MATISSE - KDT - Model-based engineering of Digital Twins for early verification and validation of Industrial Systems</b>
+<br/>
+<i>01.03.2021 - 31.05.2025</i>
+
+This project is a European HORIZON-KDT-JU research project bringing together over 30 partners from 7 countries to develop an advanced framework for efficient engineering and validation of industrial systems using Digital Twins. By integrating DTs with model-based, data-driven, and cloud technologies, MATISSE aims to simulate, test, and predict system behaviours, enhancing both productivity and quality. This innovative approach helps companies optimise their industrial processes, reduce errors, and boost productivity, ultimately simplifying complex operations like machinery production and factory management. 
+
+</div>
+</div>
+</div>
+
 ## Software Development Project
 
 <div class="jumbotron">
